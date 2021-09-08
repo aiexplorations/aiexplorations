@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data science professional with experience in building solutions for clients and in building data and ML centric products.
+I'm Rajesh, a data science professional with experience in building solutions for clients and in building data and ML centric products.
 
 * 🔭 Building data science and machine learning applications.
 * 🌱 Learning more about sequence models, Apache Spark, graph neural networks and natural language processing
