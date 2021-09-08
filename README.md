@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I'm Rajesh and go by @aiexplorations here.
+Data science professional with experience in building solutions for clients and in building data and ML centric products.
 
-I'm a data science professional, engineer, data science manager/leader with experience in building solutions for clients and in building data and ML centric products.
-
-* 🔭 I'm deeply interested in building data science and machine learning applications.
-* 🌱 I'm constantly learning stuff. These days, I'm learning more about sequence models, Apache Spark, graph neural networks and natural language processing
-* 👯 I'm looking to collaborate on data science and statistical modeling projects and repos 
-* 🤔 I'm usually looking for help with statically typed languages and working with larger code bases, and with 
+* 🔭 Building data science and machine learning applications.
+* 🌱 Learning more about sequence models, Apache Spark, graph neural networks and natural language processing
+* 👯 Looking to collaborate on data science and statistical modeling projects and repos 
+* 🤔 Usually looking for help with statically typed languages and working with larger code bases, and with 
 * 💬 Ask me about: 
   - Significance testing
   - Supervised machine learning
