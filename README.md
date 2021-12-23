@@ -9,6 +9,8 @@ I'm Rajesh, a data science professional with experience in building solutions fo
 * 💬 Ask me about: 
   - Significance testing
   - Supervised machine learning
+  - Practical NLP
+  - MLOps and model deployment
   - Time series analysis
   - Survival and hazard analysis
   - Deep Learning for computer vision
