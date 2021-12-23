@@ -5,7 +5,10 @@ I'm Rajesh, a data science professional with experience in building solutions fo
 * 🔭 Building data science and machine learning applications.
 * 🌱 Learning more about sequence models, Apache Spark, graph neural networks and natural language processing
 * 👯 Looking to collaborate on data science and statistical modeling projects and repos 
-* 🤔 Usually looking for help with statically typed languages and working with larger code bases
+* 🤔 Usually looking for help with 
+  - Statically typed languages 
+  - Working with larger code bases
+  - Azure and AWS
 * 💬 Ask me about: 
   - Significance testing
   - Supervised machine learning
