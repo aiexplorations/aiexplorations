@@ -6,9 +6,9 @@ I'm Rajesh, a data science professional with experience in building solutions fo
 * 🌱 Learning more about sequence models, Apache Spark, graph neural networks and natural language processing
 * 👯 Looking to collaborate on data science and statistical modeling projects and repos 
 * 🤔 Usually looking for help with 
-  - Statically typed languages 
+  - Writing production grade code in statically typed and compiled languages 
   - Working with larger code bases
-  - Azure and AWS
+  - Building and deploying applications to Azure and AWS
   - Pytorch
   - Docker, Kubernetes and virtualization technologies
 * 💬 Ask me about: 
