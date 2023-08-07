@@ -3,24 +3,25 @@
 I'm Rajesh, a data science professional with experience in building solutions for clients and in building data and ML centric products.
 
 * 🔭 Building data science and machine learning applications
-* 🌱 Learning more about sequence models, Apache Spark, graph neural networks and natural language processing
+* 🤖 Building apps with language models and tools like vector search, databases
+* ☁️ Familiar with building on Azure, AWS
+* 📖 Learning something everyday about deep learning models, language models, transformers, deep learning
+* 🚀 Deploying and scaling apps with Devops - Docker, Kubernetes - although I've largely worked with managed K8s
 * 👯 Looking to collaborate on data science and statistical modeling projects and repos 
-* 🤔 Usually looking for help with 
-  - Writing production grade code in statically typed and compiled languages 
-  - Working with larger code bases
-  - Building and deploying applications to Azure and AWS
-  - Pytorch
-  - Docker, Kubernetes and virtualization technologies
+* 🤔 Usually looking for help with -
+  - Code reviews
+  - Great architectural ideas
+  - Security and data privacy
+  - Terraform and infrastructure-as-code
 * 💬 Ask me about: 
-  - Significance testing
-  - Supervised machine learning
-  - Deep learning for sequence modeling
-  - Practical NLP
+  - Statistical inference and machine learning
+  - Deep learning - especially convolutional networks, LSTMs and similar models
+  - Sequence classification with transformers
+  - Natural language processing and various techniques in this ambit
   - Model-as-a-Service, MLOps and Model deployment
-  - Time series analysis
-  - Survival and hazard analysis
+  - Time series analysis, such as ARIMA and such models
   - Deep Learning for computer vision
-  - Graph neural networks
+  - Graph analytics and how to work with graph shaped data
   - Tensorflow and Keras
   - Sensor data analysis
   - Scalable data processing pipelines with Apache Spark
@@ -29,13 +30,11 @@ I'm Rajesh, a data science professional with experience in building solutions fo
   - Software product and cloud 
   - Manufacturing and automotive technmology
   - Energy and renewable technology
-  - Quality centric data analysis
-  - Model based systems engineering and statistical engineering
+  
 * 📫 Reach me at :
   - [Email](mailto:rexplorations@gmail.com)
   - [On Twitter](https://twitter.com/aiexplorations)
   - [On LinkedIn](https://linkedin.com/in/rajeshrs)
-
 
 
 <!--
