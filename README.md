@@ -4,11 +4,13 @@ I'm Rajesh, a data science professional with experience in building solutions fo
 
 * 🔭 Building data science and machine learning applications
 * 🤖 Building apps with language models and tools like vector search, databases
+* ⚙️ System design for ML applications covering requirements such as requirements, sizing, performance, etc.
 * ☁️ Familiar with building on Azure, AWS
 * 📖 Learning something everyday about deep learning models, language models, transformers, deep learning
 * 🚀 Deploying and scaling apps with Devops - Docker, Kubernetes - although I've largely worked with managed K8s
 * 👯 Looking to collaborate on data science and statistical modeling projects and repos 
 * 🤔 Usually looking for help with -
+  - Learning good software engineering practices
   - Code reviews
   - Great architectural ideas
   - Security and data privacy
