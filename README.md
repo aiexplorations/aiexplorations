@@ -1,55 +1,58 @@
 ### Hi there 👋
 
-I'm Rajesh, a data science professional with experience in building solutions for clients and in building data and ML centric products.
+I'm Rajesh, a senior data science professional and creative technologist with deep experience building solutions for clients and developing data and ML-centric products.
 
-* 🔭 Building data science and machine learning applications
-* 🤖 Building apps with language models and tools like vector search, databases
-* ⚙️ System design for ML applications covering requirements such as requirements, sizing, performance, etc.
-* ☁️ Familiar with building on Azure, AWS
-* 📖 Learning something everyday about deep learning models, language models, transformers, reinforcement learning
-* 🚀 Deploying and scaling apps with Devops - Docker, Kubernetes - although I've largely worked with managed K8s
-* 👯 Looking to collaborate on data science and statistical modeling projects and repos 
-* 🤔 Usually looking for help with -
-  - Learning good software engineering practices
-  - Code reviews
-  - Great architectural ideas
-  - Security and data privacy
-  - Terraform and infrastructure-as-code
-* 💬 Ask me about: 
-  - Statistical inference and machine learning
-  - Deep learning - especially convolutional networks, LSTMs and similar models
-  - Sequence classification with transformers
-  - Natural language processing and various techniques in this ambit
-  - Model-as-a-Service, MLOps and Model deployment
-  - Time series analysis, such as ARIMA and such models
-  - Deep Learning for computer vision
-  - Graph analytics and how to work with graph shaped data
-  - Tensorflow and Keras
-  - Sensor data analysis
-  - Scalable data processing pipelines with Apache Spark
-  - Scalable ML and DL with Tensorflow, Keras
-* Industry areas I'm good at:
-  - Software product and cloud 
-  - Manufacturing and automotive technmology
+---
+
+## 🚀 What I Built Recently
+
+- 🔭 **Production-ready AI applications:** From conversational AI (local, privacy-first chatbots and RAG systems like [Charcha](https://github.com/aiexplorations/charcha)) to AI-powered writing tools (e.g. PlotkraftAI) and LLM-powered Q&A for classic texts.
+- 🤖 **ML and Deep Learning Apps:** Solutions using language models, vector search, and advanced NLP techniques.
+- ⚙️ **System Design for ML Applications:** Expertise in requirements, sizing, performance, and scalable architectures.
+- ☁️ **Cloud-Native Engineering:** Building and deploying on Azure and AWS, with DevOps, Docker, managed Kubernetes, and infrastructure-as-code.
+- 🎨 **Creative & Visualization Tools:** Mac-native apps for style transfer ([Image Stylist](https://github.com/aiexplorations/image_stylist)), high-dimensional mathematical visualization, and engineering simulations (e.g. Okaybee Redux).
+- 🛠️ **Developer Productivity Tools:** IDE templates, scaffolds, rapid prototyping utilities, and workflow boosters like [Mac Shortcut Tips](https://github.com/aiexplorations/mac_shortcut_tips) and Kubernetes demos.
+
+---
+
+## 🌟 Why Explore My Work?
+
+- **Breadth:** 100+ repositories spanning AI, ML, data science, creative technology, infrastructure, and developer productivity.
+- **Innovation:** Early adoption of transformative tech—LLMs, RAG, Stable Diffusion, local deployment, and more.
+- **Open & Private:** Many open-source projects, plus advanced private tools and demos.  
+  _If you're interested in more, just reach out!_
+- **Industry Experience:**  
+  - Software product and cloud  
+  - Manufacturing and automotive technology  
   - Energy and renewable technology
-  
-* 📫 Reach me at :
-  - [Email](mailto:rexplorations@gmail.com)
-  - [On Twitter](https://twitter.com/aiexplorations)
-  - [On LinkedIn](https://linkedin.com/in/rajeshrs)
 
+---
+
+## 🧑‍💻 About Me
+
+- Always learning, always building.
+- Passionate about the intersection of AI, creativity, and developer experience.
+- Deep learning models, transformers, RL, and scalable pipelines.
+- Scalable ML and DL with TensorFlow, Keras, Spark.
+- Natural language processing, sequence classification, and time series analysis.
+- Graph analytics, sensor data, and computer vision.
+- Focused on security, data privacy, and great architecture.
+
+---
+
+## 🤝 Let's Connect!
+
+- 📫 [Email](mailto:rexplorations@gmail.com)
+- 🐦 [Twitter](https://twitter.com/aiexplorations)
+- 💼 [LinkedIn](https://linkedin.com/in/rajeshrs)
+
+---
+
+**Browse all my projects:**  
+👉 [github.com/aiexplorations?tab=repositories](https://github.com/aiexplorations?tab=repositories)
+
+*This profile highlights only a sample of my work. Dive into the repos for much more!*
 
 <!--
 **aiexplorations/aiexplorations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
