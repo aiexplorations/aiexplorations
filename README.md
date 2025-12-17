@@ -41,12 +41,10 @@ I'm Rajesh, a senior data science professional and creative technologist with de
 ## 🧑‍💻 About Me
 
 - Always learning, always building.
-- Passionate about the intersection of AI, creativity, and developer experience.
+- Passionate about the intersection of AI, mathematics, engineering and science.
 - Deep learning models, transformers, RL, and scalable pipelines.
-- Scalable ML and DL with TensorFlow, Keras, Spark.
-- Natural language processing, sequence classification, and time series analysis.
 - Graph analytics, sensor data, and computer vision.
-- Focused on security, data privacy, and great architecture.
+
 
 ---
 
