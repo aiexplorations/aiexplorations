@@ -1,65 +1,108 @@
-### Hi there 👋
+# AI Explorations (aiexplorations)
 
-I'm Rajesh, a senior data science professional and creative technologist with deep experience building solutions for clients and developing data and ML-centric products.
-
----
-
-## 🚀 What I Built Recently
-
-- 🟠 **Praval:** [Praval](https://github.com/aiexplorations/praval) is a Pythonic Multi-Agent AI Framework. It lets you build intelligent agent ecosystems with decorator-based APIs, self-organizing, knowledge-first communication, and persistent LLM-powered memory. Praval’s philosophy: *“Simple agents, powerful results. Intelligence emerges from collaboration, not complexity.”*  
-  - **Highlights:** Multi-LLM support, advanced semantic memory, production-ready infrastructure, and dramatic reduction in code complexity for agentic applications.
-  - **See:** [Praval Guide](https://github.com/aiexplorations/praval/blob/main/praval.md)
-
-- 🟣 **agentic_NLD:** [agentic_nld](https://github.com/aiexplorations/agentic_nld) explores Chaos Theory in Two-Agent LLM Conversations. This project provides a mathematical and empirical investigation of chaotic dynamics between large language models, including:  
-  - A formal framework for chaos in multi-agent LLM dialogue  
-  - Extensive Python and TeX-based experimental validation  
-  - Reproducible tools for studying emergent complexity in conversational AI
-
-- 🔭 **Production-ready AI applications:** From conversational AI (local, privacy-first chatbots and RAG systems like [Charcha](https://github.com/aiexplorations/charcha)) to AI-powered writing tools and knowledge graph miners.
-- 📊 **EspressoInsights:** Actionable analytics and rapid visualization platform designed for intuitive business intelligence and effortless data exploration.
-- 🤖 **ML and Deep Learning Apps:** Solutions using language models, vector search, and advanced NLP techniques.
-- ⚙️ **System Design for ML Applications:** Expertise in requirements, sizing, performance, and scalable architectures.
-- ☁️ **Cloud-Native Engineering:** Building and deploying on Azure and AWS, with DevOps, Docker, managed Kubernetes, and infrastructure-as-code.
-- 🎨 **Creative & Visualization Tools:** Mac-native apps for style transfer ([Image Stylist](https://github.com/aiexplorations/image_stylist)), high-dimensional mathematical visualization, and experimental UIs.
-- 🛠️ **Developer Productivity Tools:** IDE templates, scaffolds, rapid prototyping utilities, and workflow boosters like [Mac Shortcut Tips](https://github.com/aiexplorations/mac_shortcut_tips).
+Welcome!  
+This GitHub profile is the home of my open-source experiments and research projects around agentic AI, mathematical process theory, information retrieval, and emergent dynamics in language models.
 
 ---
 
-## 🌟 Why Explore My Work?
+## About Me
 
-- **Breadth:** 100+ repositories spanning AI, ML, data science, creative technology, infrastructure, and developer productivity.
-- **Innovation:** Early adoption of transformative tech—LLMs, RAG, Stable Diffusion, local deployment, and more.
-- **Open & Private:** Many open-source projects, plus advanced private tools and demos.  
-  _If you're interested in more, just reach out!_
-- **Industry Experience:**  
-  - Software product and cloud  
-  - Manufacturing and automotive technology  
-  - Energy and renewable technology
-
----
-
-## 🧑‍💻 About Me
-
-- Always learning, always building.
-- Passionate about the intersection of AI, mathematics, engineering and science.
-- Deep learning models, transformers, RL, and scalable pipelines.
-- Graph analytics, sensor data, and computer vision.
-
+- Principal Research Focus: Multi-agent systems, mathematical foundations of AI, graphs, dynamical systems, and interpretable machine learning.
+- I love building small, testable research codebases that bridge mathematical foundations to hands-on implementations—especially if it's agentic, compositional, or reveals deep or interesting dynamics.
+- My background mixes AI, math, distributed systems, and software engineering from recent work experiences; and I always favor clarity, reproducibility, and simple well-documented demos.
+- Past work experience includes mechanical engineering and aerospace design, manufacturing, quality management and statistical problem solving
+- I've worked across industry domains such as automotive and truck manufacturing, telecommunications, renewable energy, and product SaaS (HR)
+- Portfolio Website: [rajeshrs.in](https://rajeshrs.in)
+- LinkedIn: [linkedin.com/in/rajeshrs](https://linkedin.com/in/rajeshrs)
 
 ---
 
-## 🤝 Let's Connect!
+## Featured Projects
+
+- **Praval — Multi-Agent AI Framework**  
+  Pythonic framework for building collaborative multi-agent systems. Compose simple agents for emergent capability, with built-in conversation memory, inter-process protocol (“Spore”), and LLM adapters.
+  - Highlights: agent decorator, multiple transport layers (RabbitMQ), memory integrations, code extensibility.
+  - [Repo](https://github.com/aiexplorations/praval)
+
+- **Praval Deep Research — Local-first AI Research Assistant**  
+  Local-first research assistant for arXiv papers (runtime search, indexing, retrieval, agentic workflows and math parsing), built atop Praval.
+  - [Repo](https://github.com/aiexplorations/praval_deep_research)
+
+- **Tlon Mathematics**  
+  A Python library for mathematical process theory—where “processes” are primitive and “objects” emerge as stable patterns. Features dynamical systems demos (double pendulum, N-body, Keplerian motion).
+  - [Repo](https://github.com/aiexplorations/tlon_math)
+
+- **Vajra BM25**  
+  Fast, vectorized BM25 search engine with category theory abstractions. Includes optimized index formats and parallel query engine.
+  - PyPI: `vajra-bm25` (current version 0.2.1)
+  - [Repo](https://github.com/aiexplorations/vajra_bm25)
+
+- **Agentic NLD — Chaos Theory in LLM Conversations**  
+  Experiments with two-agent LLM conversations exhibiting chaotic signatures and sensitive dependence on initial conditions (discrete-time dynamical system for language).
+  - [Repo](https://github.com/aiexplorations/agentic_nld)
+
+---
+
+## How I Work
+
+- Most projects are Python-first (with some TypeScript, Shell, and TeX/PDF/Markdown documentation)
+- I organize repos by research question and try to keep everything well-tested, simple, and reproducible.
+- Contributions: Open to issues, PRs (prefer discussions first).
+
+---
+
+## Quick Start
+
+General setup for any project:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -e ".[dev]"   # when available
+pytest -v
+```
+
+Check each repo’s README for project-specific install/demos.
+
+---
+
+## Getting Involved
+
+- Open to collaborations on agent-based AI, interpretable ML, mathematical frameworks, and high-performance search.
+- For PRs, open an issue or discussion first; I value alignment and thoughtful reviews.
+- MIT license by default; cite my work if you use it for research (I enjoy seeing derivatives).
+
+---
+
+## Connect & Follow
+
+- [GitHub Profile](https://github.com/aiexplorations)
+- Website: [rajeshrs.in](https://rajeshrs.in)
+- LinkedIn: [linkedin.com/in/rajeshrs](https://linkedin.com/in/rajeshrs)
+- [Twitter](https://twitter.com/aiexplorations)
+- For questions/collaboration: open an issue and tag me
+
+---
+
+### Options
+
+If you prefer:
+- A more concise README for your profile landing page,
+- Badges (CI, PyPI, test coverage) or custom project showcase,
+- A single “getting started” demo snippet,
+
+Let me know! I’ll prepare the markdown for review before any change is made.
+
+
+---
+
+## Let's Connect!
 
 - 📫 [Email](mailto:rexplorations@gmail.com)
 - 🐦 [Twitter](https://twitter.com/aiexplorations)
 - 💼 [LinkedIn](https://linkedin.com/in/rajeshrs)
 
 ---
-
-**Browse all my projects:**  
-👉 [github.com/aiexplorations?tab=repositories](https://github.com/aiexplorations?tab=repositories)
-
-*This profile highlights only a sample of my work. Dive into the repos for much more!*
 
 <!--
 **aiexplorations/aiexplorations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
