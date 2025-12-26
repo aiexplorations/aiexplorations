@@ -1,7 +1,7 @@
 # AI Explorations (aiexplorations)
 
-Welcome!  
-This GitHub profile is the home of my open-source experiments and research projects around agentic AI, mathematical process theory, information retrieval, and emergent dynamics in language models.
+Welcome!
+This GitHub profile is the home of my open-source experiments and research projects around agentic AI, machine learning, search and information retrieval, and emergent dynamics in large language models.
 
 ---
 
@@ -21,21 +21,21 @@ This GitHub profile is the home of my open-source experiments and research proje
 
 - **Praval — Multi-Agent AI Framework**  
   Pythonic framework for building collaborative multi-agent systems. Compose simple agents for emergent capability, with built-in conversation memory, inter-process protocol (“Spore”), and LLM adapters.
-  - Highlights: agent decorator, multiple transport layers (RabbitMQ), memory integrations, code extensibility.
+  - Highlights: agent decorator, tool use, composable API, multiple transport layers (RabbitMQ), memory integrations, code extensibility.
   - [Repo](https://github.com/aiexplorations/praval)
 
 - **Praval Deep Research — Local-first AI Research Assistant**  
   Local-first research assistant for arXiv papers (runtime search, indexing, retrieval, agentic workflows and math parsing), built atop Praval.
   - [Repo](https://github.com/aiexplorations/praval_deep_research)
 
-- **Tlon Mathematics**  
-  A Python library for mathematical process theory—where “processes” are primitive and “objects” emerge as stable patterns. Features dynamical systems demos (double pendulum, N-body, Keplerian motion).
-  - [Repo](https://github.com/aiexplorations/tlon_math)
-
 - **Vajra BM25**  
   Fast, vectorized BM25 search engine with category theory abstractions. Includes optimized index formats and parallel query engine.
   - PyPI: `vajra-bm25` (current version 0.2.1)
   - [Repo](https://github.com/aiexplorations/vajra_bm25)
+
+- **Tlon Mathematics**  
+  A Python library for mathematical process theory—where “processes” are primitive and “objects” emerge as stable patterns. Features dynamical systems demos (double pendulum, N-body, Keplerian motion).
+  - [Repo](https://github.com/aiexplorations/tlon_math)
 
 - **Agentic NLD — Chaos Theory in LLM Conversations**  
   Experiments with two-agent LLM conversations exhibiting chaotic signatures and sensitive dependence on initial conditions (discrete-time dynamical system for language).
@@ -81,18 +81,6 @@ Check each repo’s README for project-specific install/demos.
 - LinkedIn: [linkedin.com/in/rajeshrs](https://linkedin.com/in/rajeshrs)
 - [Twitter](https://twitter.com/aiexplorations)
 - For questions/collaboration: open an issue and tag me
-
----
-
-### Options
-
-If you prefer:
-- A more concise README for your profile landing page,
-- Badges (CI, PyPI, test coverage) or custom project showcase,
-- A single “getting started” demo snippet,
-
-Let me know! I’ll prepare the markdown for review before any change is made.
-
 
 ---
 
