@@ -11,7 +11,7 @@ This GitHub profile is the home of my open-source experiments and research proje
 - I love building small, testable research codebases that bridge mathematical foundations to hands-on implementations—especially if it's agentic, compositional, or reveals deep or interesting dynamics.
 - My background mixes AI, math, distributed systems, and software engineering from recent work experiences; and I always favor clarity, reproducibility, and simple well-documented demos.
 - Past work experience includes mechanical engineering and aerospace design, manufacturing, quality management and statistical problem solving
-- I've worked across industry domains such as automotive and truck manufacturing, telecommunications, renewable energy, and product SaaS (HR)
+- I've worked across industry domains such as automotive and truck manufacturing, aerospace, telecommunications, renewable energy, and product SaaS (data platform products, HR tech products)
 - Portfolio Website: [rajeshrs.in](https://rajeshrs.in)
 - LinkedIn: [linkedin.com/in/rajeshrs](https://linkedin.com/in/rajeshrs)
 
