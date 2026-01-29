@@ -63,15 +63,25 @@ Using topological data analysis (TDA) and persistent homology to understand neur
 
 ---
 
-## Research: Novel Architectures & Reasoning
+## Research: Novel Architectures & Mathematical Foundations
 
-Experimental approaches to computation and reasoning in neural systems.
+Experimental approaches to computation and reasoning.
 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Vidai** | Arithmetic computation via structure understanding. Separates expression parsing (learned) from computation (hardcoded). Achieves 100% accuracy on validation sets | [Repo](https://github.com/aiexplorations/vidai) |
-| **Prakriya** | Post-LLM paradigm for machine reasoning using Sanskrit Kāraka grammatical structure as pivot representation | [Repo](https://github.com/aiexplorations/prakriya) |
-| **ML Architecture Discovery Engine** | Automated discovery and validation of ML architecture innovations | [Repo](https://github.com/aiexplorations/ML_Arch_Discovery_Engine) |
+| **Tlön Math** | Process-as-primitive mathematics inspired by Borges. Processes are primitive; objects emerge as stable patterns | [Repo](https://github.com/aiexplorations/tlon_math) |
+
+---
+
+## Engineering Simulations
+
+Physics and optimization from my mechanical/aerospace engineering background.
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Beam-Column Simulation** | Timoshenko beam-column analyzer with P-Δ effects, multiple boundary conditions, and interactive FEA-style visualization | [Repo](https://github.com/aiexplorations/beam_column_simulation) |
+| **Genetic Algorithm Wing Optimization** | Wing planform optimization using enhanced GA with adaptive mutation, elitism, and real-time visualization. Originally published in 2010 | [Repo](https://github.com/aiexplorations/genetic_algo_wing_optimization) |
 
 ---
 
@@ -80,17 +90,23 @@ Experimental approaches to computation and reasoning in neural systems.
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Praval Deep Research** | Local-first AI research assistant for ArXiv papers, built with Praval | [Repo](https://github.com/aiexplorations/praval_deep_research) |
-| **Praval Medical Analytics** | Agentic application integrating Praval with Vajra search for medical analytics | [Repo](https://github.com/aiexplorations/praval_medical_analytics) |
+| **Praval Tutorials** | Interactive Jupyter notebooks for learning the Praval multi-agent framework | [Repo](https://github.com/aiexplorations/praval-tutorials) |
+| **KayGeeGo** | Knowledge graph generator using Go and Neo4j with LLM-powered relationship mining and 3D visualization | [Repo](https://github.com/aiexplorations/kay-gee-go) |
+| **Sangraha** | Object store service with FastAPI, message queue, and MinIO | [Repo](https://github.com/aiexplorations/sangraha) |
+| **PulseGate** | Rate limiter system implementing best practices for request throttling between services | [Repo](https://github.com/aiexplorations/pulse_gate) |
+| **EspressoInsights** | LLM app observability and monitoring using Arize Phoenix with locally-run Ollama models | [Repo](https://github.com/aiexplorations/EspressoInsights) |
 | **docx-mcp** | MCP server for authoring Word documents with Claude and ChatGPT | [Repo](https://github.com/aiexplorations/docx-mcp) |
+| **Markdown to PPTX** | Convert Markdown files to PowerPoint presentations | [Repo](https://github.com/aiexplorations/markdown-to-pptx) |
 | **SlowDB** | Educational vector database implementation for learning database internals | [Repo](https://github.com/aiexplorations/slowdb) |
 
 ---
 
-## Books & Writing
+## Go Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **ML & AI Design Patterns** | Book on machine learning and AI design patterns | [Repo](https://github.com/aiexplorations/mldp_book) |
+| **GoPandas** | Pandas replacement written in Go, targeting 5x+ performance over Python for common operations | [Repo](https://github.com/aiexplorations/gopandas) |
+| **KayGeeGo** | Knowledge graph generator with Neo4j backend | [Repo](https://github.com/aiexplorations/kay-gee-go) |
 
 ---
 
